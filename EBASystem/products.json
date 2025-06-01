@@ -1,0 +1,11 @@
+[
+    {
+        "id": "prod_683c3f1e446b4",
+        "name": "uniform",
+        "type": "Uniform",
+        "size": "small",
+        "price": 300,
+        "stock": 98,
+        "status": "active"
+    }
+]
